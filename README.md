@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BLimaM4I
 - Working in Automation field with Siemens TIA Portal, WinCC, Sinamics, XWorks and DesigoCC
 - TwinCAT and CodeSys fan!
-- 🌱 Learning Java, Android with Java/Kotlin and Flutter
+- 🌱 Flutter Developer
 - 📫 How to reach me ... tecnica.blima@gmail.com
 
 <!---
